@@ -30,6 +30,9 @@ Folder Descriptions
 model
 This folder defines the data structure for the to-do items used in the application.
 
+
+//added a calender to the app and also integrated firebase to encompass registration and login 
+
 screens
 Screens are responsible for rendering the user interface of different parts of the app, such as the task list and add task screens.
 
